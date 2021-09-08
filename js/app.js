@@ -1,5 +1,5 @@
 // on insère la key API
-const APIKEY = '228c3d96bf64d2fbc24317ae62d42cf6' ;
+const APIKEY = '' ;
 
 // appel à l'appi openWeather avec ville en paramètre de fonction
 let apiCall = function(city){
